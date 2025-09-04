@@ -352,24 +352,6 @@ npm run type-check
 # Reinstalar @types
 npm install --save-dev @types/react @types/react-dom
 ```
-
-## 📱 PWA (Futuro)
-
-### **Recursos Planejados**
-- **Service Worker** para cache offline
-- **Manifest** para instalação
-- **Push Notifications** para novas músicas
-- **Background Sync** para sugestões offline
-
-## 🎯 Próximos Passos
-
-- [ ] **Testes E2E** com Playwright
-- [ ] **PWA** com service worker
-- [ ] **Dark Mode** toggle
-- [ ] **Filtros avançados** de busca
-- [ ] **Favoritos** do usuário
-- [ ] **Compartilhamento social**
-
 ---
 
 **Versão:** 2.0  
